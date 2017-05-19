@@ -1,5 +1,5 @@
 typer('#path', 70)
-    .line('cd /Users/entropia/Documents/websites/this_website')
+    .line('cd users/me/my-kwel-stuff/thingy/this_thingy')
     .line("git checkout development")
     .line("vi scripts.js")
     .line("var makeCoolWebsite = function() {")
